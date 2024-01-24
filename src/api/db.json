@@ -1,0 +1,149 @@
+{
+  "Framework": [
+    {
+      "id": "1",
+      "name": "Django",
+      "type": "A"
+    },
+    {
+      "id": "2",
+      "name": "Flutter",
+      "type": "A"
+    },
+    {
+      "id": "3",
+      "name": "Dart",
+      "type": "A"
+    },
+    {
+      "id": "4",
+      "name": "Angular",
+      "type": "A"
+    },
+    {
+      "id": "5",
+      "name": "Vue",
+      "type": "A"
+    },
+    {
+      "id": "6",
+      "name": "React",
+      "type": "A"
+    }
+  ],
+  "Language": [
+    {
+      "id": "1",
+      "name": "Python",
+      "type": "B"
+    },
+    {
+      "id": "2",
+      "name": "PHP",
+      "type": "B"
+    },
+    {
+      "id": "3",
+      "name": "Javascript",
+      "type": "B"
+    },
+    {
+      "id": "4",
+      "name": "C++",
+      "type": "B"
+    },
+    {
+      "id": "5",
+      "name": "Java",
+      "type": "B"
+    },
+    {
+      "id": "6",
+      "name": "C#",
+      "type": "B"
+    }
+  ],
+  "API": [
+    {
+      "id": "1",
+      "name": "REST APIs",
+      "type": "C"
+    },
+    {
+      "id": "2",
+      "name": "Google Maps API",
+      "type": "C"
+    }
+  ],
+  "Database": [
+    {
+      "id": "1",
+      "name": "JSON",
+      "type": "D"
+    },
+    {
+      "id": "2",
+      "name": "PostgreSQL",
+      "type": "D"
+    },
+    {
+      "id": "3",
+      "name": "Firebase",
+      "type": "D"
+    },
+    {
+      "id": "4",
+      "name": "Oracle",
+      "type": "D"
+    }
+  ],
+  "Technology": [
+    {
+      "id": "1",
+      "name": "Git",
+      "type": "E"
+    },
+    {
+      "id": "2",
+      "name": "JIRA",
+      "type": "E"
+    },
+    {
+      "id": "3",
+      "name": "Github",
+      "type": "E"
+    },
+    {
+      "id": "4",
+      "name": "WordPress",
+      "type": "E"
+    }
+  ],
+  "General": [
+    {
+      "id": "1",
+      "name": "Linux",
+      "type": "F"
+    },
+    {
+      "id": "2",
+      "name": "Network",
+      "type": "F"
+    },
+    {
+      "id": "3",
+      "name": "Cloud",
+      "type": "F"
+    },
+    {
+      "id": "4",
+      "name": "Embedded",
+      "type": "F"
+    },
+    {
+      "id": "5",
+      "name": "CyberSecurity",
+      "type": "F"
+    }
+  ]
+}
